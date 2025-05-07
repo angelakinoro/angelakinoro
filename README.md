@@ -19,7 +19,6 @@
 
 - **Email:** kinoroangela29@gmail.com
 - **LinkedIn:** [Angela Kinoro](https://linkedin.com/in/angela-kinoro)
-- **GitHub:** [github.com/angelakinoro](https://github.com/angelakinoro)
 
 ## 🛠️ Technologies & Tools
 
