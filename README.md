@@ -9,6 +9,8 @@
 
 - **[Citizen Lens](https://github.com/CitizenLense/Pilot)** — Working with a team to build a community feedback platform using sentiment analysis to evaluate citizen opinions on CDF (Constituency Development Fund) projects.
 
+- **[Recipe Sharing Platform](https://github.com/angelakinoro/Recipe-Sharing-Platform)** — A modern full-stack web application for discovering, creating, and sharing delicious recipes, with features tailored for food lovers, home cooks, and aspiring chefs.
+  
 ## 💻 Skills & Learning
 
 - 🌱 Currently learning **TypeScript**
