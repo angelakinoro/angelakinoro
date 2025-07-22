@@ -51,3 +51,4 @@
 ## ⚡ Fun Fact
 
 I'm a Live Stream Director and Videographer with a passion for all things production!
+I am Valedictorian, Class of 2025, Riara University 😊 
